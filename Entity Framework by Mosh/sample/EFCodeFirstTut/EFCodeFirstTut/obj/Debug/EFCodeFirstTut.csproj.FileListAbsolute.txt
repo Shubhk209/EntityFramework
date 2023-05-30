@@ -1,0 +1,14 @@
+E:\Project\Entity Framework\Entity Framework by Mosh Hamedani\sample\EFCodeFirstTut\EFCodeFirstTut\bin\Debug\EFCodeFirstTut.exe.config
+E:\Project\Entity Framework\Entity Framework by Mosh Hamedani\sample\EFCodeFirstTut\EFCodeFirstTut\bin\Debug\EFCodeFirstTut.exe
+E:\Project\Entity Framework\Entity Framework by Mosh Hamedani\sample\EFCodeFirstTut\EFCodeFirstTut\bin\Debug\EFCodeFirstTut.pdb
+E:\Project\Entity Framework\Entity Framework by Mosh Hamedani\sample\EFCodeFirstTut\EFCodeFirstTut\bin\Debug\EntityFramework.dll
+E:\Project\Entity Framework\Entity Framework by Mosh Hamedani\sample\EFCodeFirstTut\EFCodeFirstTut\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project\Entity Framework\Entity Framework by Mosh Hamedani\sample\EFCodeFirstTut\EFCodeFirstTut\bin\Debug\EntityFramework.xml
+E:\Project\Entity Framework\Entity Framework by Mosh Hamedani\sample\EFCodeFirstTut\EFCodeFirstTut\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project\Entity Framework\Entity Framework by Mosh Hamedani\sample\EFCodeFirstTut\EFCodeFirstTut\obj\Debug\EFCodeFirstTut.csproj.AssemblyReference.cache
+E:\Project\Entity Framework\Entity Framework by Mosh Hamedani\sample\EFCodeFirstTut\EFCodeFirstTut\obj\Debug\EFCodeFirstTut.csproj.CoreCompileInputs.cache
+E:\Project\Entity Framework\Entity Framework by Mosh Hamedani\sample\EFCodeFirstTut\EFCodeFirstTut\obj\Debug\EFCodeFirstTut.csproj.CopyComplete
+E:\Project\Entity Framework\Entity Framework by Mosh Hamedani\sample\EFCodeFirstTut\EFCodeFirstTut\obj\Debug\EFCodeFirstTut.exe
+E:\Project\Entity Framework\Entity Framework by Mosh Hamedani\sample\EFCodeFirstTut\EFCodeFirstTut\obj\Debug\EFCodeFirstTut.pdb
+E:\Project\Entity Framework\Entity Framework by Mosh Hamedani\sample\EFCodeFirstTut\EFCodeFirstTut\obj\Debug\EFCodeFirstTut.Migrations.DB_TblPostCreation.resources
+E:\Project\Entity Framework\Entity Framework by Mosh Hamedani\sample\EFCodeFirstTut\EFCodeFirstTut\obj\Debug\EFCodeFirstTut.csproj.GenerateResource.cache
